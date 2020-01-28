@@ -1,6 +1,8 @@
-
 #' ---
-#' output: github_document
+#' title: "Untitled"
+#' output:
+#'    html_document:
+#'        keep_md: yes
 #' ---
 
 # dplyr::na_if(x, y) replaces NA values in `x` with `y`
